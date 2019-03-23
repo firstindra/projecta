@@ -1,0 +1,33 @@
+
+img.kiri {
+	float: left ;
+	margin:  5px;
+}
+
+
+
+img.kanan {
+	float: right;
+	margin: 5px ;
+}
+
+
+
+img.tengah {
+	display: block;
+	margin: auto;
+	margin-right: auto;
+}
+
+
+
+color.merah {
+	color: red;
+
+}
+
+
+<style type="text/css">
+	img{
+		width: 250px ;
+	} </style>
